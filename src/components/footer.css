@@ -1,0 +1,23 @@
+a:link , a:visited{
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+    }
+    
+    a:hover,  a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+    }
+    
+    
+    .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1aa7ec;
+    color: black;
+    text-align: center;
+    border-top:2px blue;
+    }
