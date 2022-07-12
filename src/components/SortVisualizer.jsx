@@ -4,7 +4,7 @@ import { getQuickSortAnimations } from '../algorithms/QuickSort';
 import { getInsertionSortAnimations } from '../algorithms/InsertionSort';
 import { getMergeSortAnimations } from '../algorithms/MergeSort';
 
-const ARR_LEN = 100;
+const ARR_LEN = 10;
 const MIN_NUM = 5;
 const MAX_NUM = 50;
 const DELAY = 5;
